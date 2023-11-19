@@ -103,7 +103,7 @@ export const footerLinks = [
         links: [
             { name: "About us", link: "/" },
             { name: "FAQs", link: "/" },
-            { name: "How it works", link: "/" },
+            { name: "How it works", link: "/instagram.com" },
             { name: "Privacy policy", link: "/" },
             { name: "Payment policy", link: "/" },
         ],
@@ -111,8 +111,8 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "adnanshihabkhan@gmail.com", link: "mailto:customer@nike.com" },
+            { name: "+91 9319240798", link: "tel:+92554862354" },
         ],
     },
 ];
